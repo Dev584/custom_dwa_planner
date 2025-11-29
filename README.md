@@ -58,7 +58,7 @@ git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
 2. Install ROS 2 Dependencies
 Navigate to your workspace root and let rosdep install any remaining dependencies.
 ```bash
-cd ~/const_ws
+cd ~/dwa_ws
 rosdep install --from-paths src --ignore-src -r -y
 ```
 3. Build the Workspace
@@ -69,7 +69,7 @@ source install/setup.bash
 ```
 (Optional) Add the source command to your .bashrc for convenience:
 ```bash
-echo "source ~/const_ws/install/setup.bash" >> ~/.bashrc
+echo "source ~/dwa_ws/install/setup.bash" >> ~/.bashrc
 ```
 4. Set TurtleBot3 Model
 Export the TURTLEBOT3_MODEL environment variable. This project uses burger.
