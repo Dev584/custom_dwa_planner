@@ -18,13 +18,9 @@ A custom Dynamic Window Approach (DWA) local planner implemented from scratch fo
 
 ---
 ## Demo Video
-<video autoplay muted loop playsinline width="800" height="450">
+<video autoplay loop muted playsinline>
   <source src="media/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag. [Download demo.mp4](media/demo.mp4)
 </video>
-
-[![Download Video](https://img.shields.io/badge/Download%20Video-56MB-blue?style=for-the-badge&logo=download&logoColor=white)](media/demo.mp4)
-</div>
 
 ---
 
