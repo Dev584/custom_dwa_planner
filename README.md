@@ -18,9 +18,9 @@ A custom Dynamic Window Approach (DWA) local planner implemented from scratch fo
 
 ---
 ## Demo Video
-<video autoplay loop muted playsinline>
-  <source src="media/demo.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/f4ac9ea2-3888-40d3-9098-b9e00f6c3e14
+
+
 
 ---
 
